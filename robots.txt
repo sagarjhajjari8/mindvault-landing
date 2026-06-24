@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://mindvault-landing.vercel.app
+Sitemap: https://mindvault-landing.vercel.app/sitemap.xml
